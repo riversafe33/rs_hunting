@@ -1679,7 +1679,7 @@ Config.SkinnableAnimals = {
 Config.Animals = {
     -- =========================== PRICE STRUCTURE PER ANIMAL =======================================
 
-    -- carcassMoney = price of whole animal without skinning
+    -- carcassMoney = Price of the animal when it has not been skinned
     -- skinnedBodyMoney = price of skinned body (without skin)
     -- peltMoneyPoor = price of low-quality pelt
     -- peltMoneyGood = price of good-quality pelt
