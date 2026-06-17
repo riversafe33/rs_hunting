@@ -7,6 +7,7 @@ https://www.paypal.com/donate/?hosted_button_id=NX4ENSGYS6YJN
 
 # Hunting script made from vorp_hunting 
 
+
 1 - Now the butchers perform the meat-cutting scenario
 
 2 - Now the money the butcher gives you is different depending on whether the animal is skinned or not
@@ -19,8 +20,11 @@ https://www.paypal.com/donate/?hosted_button_id=NX4ENSGYS6YJN
 
 6 - The way items are defined in config.lua for what you receive when skinning an animal has been changed
 
+
 # Original release: https://github.com/VORPCORE/vorp_hunting
 
+
 # :movie_camera: Showcase: https://streamable.com/4mjq0x
+
 
 <img width="1112" height="592" alt="image" src="https://github.com/user-attachments/assets/b87ad9c4-654c-4c67-95bd-f6938e25c8af" />
