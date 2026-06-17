@@ -198,7 +198,7 @@ local function SellAnimal()
                 local isSkinned2 = Citizen.InvokeNative(0x88A5564B19C15391, holding2)
                 local context2 = isSkinned2 and "skinnedcarcass" or "carcass"
                 TriggerServerEvent("rs_hunting:giveReward", context2,
-                    { model = model2, entity = holding2, netid = netid }, false)
+                    { model = model2, entity = holding2, netid = netid, horse = horse }, false)
             elseif (quality2 ~= false and quality2 ~= nil) then
                 awardQuality(quality2, holding2, nil, function()
                     alreadysoldanimal = true
