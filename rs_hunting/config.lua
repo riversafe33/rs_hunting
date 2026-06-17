@@ -1503,10 +1503,9 @@ Config.SkinnableAnimals = {
         action = "Skinned",
         type = "inventory_items_mp"
     },
-   
-
-    --DIRECT INVENTORY ITEMS (small animal which are directly added to the inventory)-------
-
+	
+     -- ===================================== Fish ================================
+	
     [703712157]   = {
         name = "Large Bullhead Catfish",
         items = {
